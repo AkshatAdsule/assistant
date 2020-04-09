@@ -1,5 +1,8 @@
 # assistant
 
+## running
+You can run each of the python files separately for each function or you can just run `assistant.py` to access all.
+
 ## about
 This is a very rudimentry voice assistant using python3.
 
